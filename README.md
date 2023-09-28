@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="photo.jpg" alt="Naveed Abdullah - Full Stack Web Developer">
+  <img src="photo.jpg" alt="Naveed Abdullah - Full Stack Web Developer"  width="150" height="150" style="border-radius: 50%;">
 </p>
 
 <!-- Introduction -->
