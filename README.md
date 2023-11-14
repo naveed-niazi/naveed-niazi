@@ -9,7 +9,7 @@ I'm a passionate Full Stack Web Developer with over 4 years of experience, speci
 - [**Hospice Care React Native App**](https://github.com/naveed-niazi/hospice-care-mobile-app): A react native app used for hospice care
 - [**GPM Backend Server**](https://github.com/naveed-niazi/gpm_server): An express backend for GPM
 - [**Company Website using Next.js**](https://github.com/naveed-niazi/company-website-next): A generic company website created with Next.js.
-- [**GPM Portal**](https://github.com/naveed-niazi/gpm-frontend): An admin portal built with React.
+- [**GPM Portal**](https://github.com/naveed-niazi/gpm-client): An admin portal built with React.
   
 ### What I Do
 
