@@ -34,7 +34,7 @@ I'm a versatile developer with expertise in both frontend and backend technologi
 - Developed large-scale web and mobile applications.
 - Collaborated with product managers, designers, and stakeholders.
 
-💼 **Web Developer** on Fiverr & Upwork (Oct 2017 - Sept 2021)
+💼 **Web Developer** on Fiverr & Upwork (Oct 2017 - Present)
 - Built custom web solutions for a diverse clientele.
 - Proficient in problem-solving and debugging.
 
